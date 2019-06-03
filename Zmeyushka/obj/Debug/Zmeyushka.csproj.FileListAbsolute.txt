@@ -1,0 +1,5 @@
+d:\user\documents\visual studio 2015\Projects\Zmeyushka\Zmeyushka\bin\Debug\Zmeyushka.exe.config
+d:\user\documents\visual studio 2015\Projects\Zmeyushka\Zmeyushka\bin\Debug\Zmeyushka.exe
+d:\user\documents\visual studio 2015\Projects\Zmeyushka\Zmeyushka\bin\Debug\Zmeyushka.pdb
+d:\user\documents\visual studio 2015\Projects\Zmeyushka\Zmeyushka\obj\Debug\Zmeyushka.exe
+d:\user\documents\visual studio 2015\Projects\Zmeyushka\Zmeyushka\obj\Debug\Zmeyushka.pdb
